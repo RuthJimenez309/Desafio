@@ -8,7 +8,7 @@
 <img width="1268" height="549" alt="image" src="https://github.com/user-attachments/assets/88486237-396e-46de-af17-6b56d86cc0d8" />
 
 
-#======INFORME DE ANÁLISIS FINAL======
+======INFORME DE ANÁLISIS FINAL======
 # ===============================================================
 #  ANÁLISIS DE TIENDAS - PYTHON | GOOGLE COLAB
 # Autor: Ruth Jimenez
@@ -149,3 +149,4 @@ y costos de envío razonables, ya que esto maximiza la rentabilidad y satisfacci
 <img width="722" height="509" alt="image" src="https://github.com/user-attachments/assets/e0a5964a-3ed5-4f6e-9bf7-370cb0f4fcfe" />
 <img width="772" height="441" alt="image" src="https://github.com/user-attachments/assets/16e72d56-4aea-40a8-bd8d-8194fa17e0d9" />
 <img width="678" height="292" alt="image" src="https://github.com/user-attachments/assets/40a2475c-6b0d-4cbd-abe1-afdc029a63bb" />
+<img width="1227" height="329" alt="image" src="https://github.com/user-attachments/assets/78dea693-49a3-4098-812c-c80f9cec2026" />
