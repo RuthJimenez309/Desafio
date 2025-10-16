@@ -141,3 +141,11 @@ y costos de envío razonables, ya que esto maximiza la rentabilidad y satisfacci
     mas_vendidos['Producto'].unique(),
     envio.loc[envio['Costo_Envio_Promedio'].idxmin(), 'Tienda']
 ))
+#======INFORME DE ANÁLISIS FINAL======
+# ===============================================================
+#======cAPTURAS DE PANTALLA======
+# ===============================================================
+
+<img width="722" height="509" alt="image" src="https://github.com/user-attachments/assets/e0a5964a-3ed5-4f6e-9bf7-370cb0f4fcfe" />
+<img width="772" height="441" alt="image" src="https://github.com/user-attachments/assets/16e72d56-4aea-40a8-bd8d-8194fa17e0d9" />
+<img width="678" height="292" alt="image" src="https://github.com/user-attachments/assets/40a2475c-6b0d-4cbd-abe1-afdc029a63bb" />
